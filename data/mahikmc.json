@@ -1,0 +1,34 @@
+{
+  "name": "Mahidhar Kakumani",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Open Source Enthusiast!",
+
+  "tags": ["Next JS","React JS","Docker","javascript", "typescript"],
+  "socials": [
+    { "icon": "FaTwitter", "url": "https://twitter.com/MahiKMC" },
+    { "icon": "FaGithub", "url": "https://github.com/ursmahi" }
+  ],
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/ursmahi",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/MahiKMC",
+      "icon": "FaTwitter"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Started Professional Career",
+      "date": "May 2021",
+      "icon": "FaDollarSign",
+      "color": "grey",
+      "description": "Assistant System Engineer",
+      "url": "https://kmc.one"
+    }
+  ]
+}
