@@ -4,7 +4,7 @@
   "type": "personal",
   "bio": "Open Source Enthusiast!",
 
-  "tags": ["Next JS","React JS","Docker","javascript", "typescript"],
+  "tags": ["Next JS", "React JS", "Docker", "javascript", "typescript"],
   "socials": [
     { "icon": "FaTwitter", "url": "https://twitter.com/MahiKMC" },
     { "icon": "FaGithub", "url": "https://github.com/ursmahi" }
